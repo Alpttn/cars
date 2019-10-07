@@ -1,0 +1,11 @@
+C:\Users\allis\workspace\CSharp\book1\exercises\cars\obj\Debug\netcoreapp3.0\cars.csprojAssemblyReference.cache
+C:\Users\allis\workspace\CSharp\book1\exercises\cars\obj\Debug\netcoreapp3.0\cars.AssemblyInfoInputs.cache
+C:\Users\allis\workspace\CSharp\book1\exercises\cars\obj\Debug\netcoreapp3.0\cars.AssemblyInfo.cs
+C:\Users\allis\workspace\CSharp\book1\exercises\cars\bin\Debug\netcoreapp3.0\cars.exe
+C:\Users\allis\workspace\CSharp\book1\exercises\cars\bin\Debug\netcoreapp3.0\cars.deps.json
+C:\Users\allis\workspace\CSharp\book1\exercises\cars\bin\Debug\netcoreapp3.0\cars.runtimeconfig.json
+C:\Users\allis\workspace\CSharp\book1\exercises\cars\bin\Debug\netcoreapp3.0\cars.runtimeconfig.dev.json
+C:\Users\allis\workspace\CSharp\book1\exercises\cars\bin\Debug\netcoreapp3.0\cars.dll
+C:\Users\allis\workspace\CSharp\book1\exercises\cars\bin\Debug\netcoreapp3.0\cars.pdb
+C:\Users\allis\workspace\CSharp\book1\exercises\cars\obj\Debug\netcoreapp3.0\cars.dll
+C:\Users\allis\workspace\CSharp\book1\exercises\cars\obj\Debug\netcoreapp3.0\cars.pdb
